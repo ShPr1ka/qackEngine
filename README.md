@@ -1,15 +1,14 @@
 <img width="1020" height="156" alt="minecraft_title" src="https://github.com/user-attachments/assets/5fcc1bf1-2c2c-4abf-8e95-70ed359eacff" />
 
-# 📦 qackEngine & qackEngineMod - Minecraft Forge 1.20.1
-**qackEngine** — это мощный инструмент для создания интерактивных сюжетных историй в Minecraft. Забудьте о сложном кодинге: создавайте квесты, диалоги и события с помощью стильного визуального интерфейса!
+# 📦 qackEngine - Minecraft Forge 1.20.1
+**qackEngine** — это мощный инструмент для создания интерактивных сюжетных историй в Minecraft. Забудьте о сложном кодинге: создавайте квесты, диалоги и события.
 
 # 🇷🇺 Русский
 ### ✨ Описание
-qackEngine превращает Minecraft в полноценный редактор историй. Система состоит из двух частей:
+qackEngine превращает Minecraft в полноценный редактор историй.
 
-**qackEngineMod** — ядро (мод), которое обрабатывает логику в игре.
+**qackEngine** — ядро (мод), которое обрабатывает логику в игре. События и тд. для визуального программирования вашего сюжета
 
-**qackEngine (App)** — внешнее приложение с уникальным UI/UX для визуального программирования вашего сюжета.
 ### 🛠 Возможности
 - Визуальное программирование: Создавайте сложную логику без написания кода.
 - Сюжетные линии: Управление событиями и последовательностью действий.
@@ -23,18 +22,15 @@ qackEngine превращает Minecraft в полноценный редакт
 ### Шаги:
 - Скачайте qackEngineMod и поместите его в папку mods.
 - Запустите Minecraft.
-- Откройте приложение qackEngine на вашем ПК.
 - Начинайте создавать свою историю!
 
 # 🇺🇸 English
 ### ✨ Description
-qackEngine is a powerful tool for creating interactive story-driven experiences in Minecraft. Stop struggling with complex code: build quests, dialogues, and events using a sleek visual interface!
+qackEngine is a powerful tool for creating interactive story-driven experiences in Minecraft.
 
 The system consists of two components:
 
 **qackEngineMod** — the core (mod) that handles in-game logic.
-
-**qackEngine (App)** — an external application with a unique UI/UX for visual storytelling.
 
 ### 🛠 Features
 - Visual Programming: Create complex logic without writing a single line of code.
@@ -49,7 +45,6 @@ The system consists of two components:
 ### Steps:
 - Download qackEngineMod and place it in your mods folder.
 - Launch Minecraft.
-- Open the qackEngine application on your PC.
 - Start crafting your story!
 
 # **Created with ❤️ for the Minecraft Community**
